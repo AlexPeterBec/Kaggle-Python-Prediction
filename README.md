@@ -17,3 +17,7 @@ Contient les mêmes champs que le set d'entrainement, mais pas les réponses (ic
 ### Pandas
 Utilisé pour la manipulation de tableaux de données et fichiers CSV.
 Sert à explorer les datasets, observer les variables et les volumes de données.
+
+### SciKit Learn
+Librairie la plus populaire pour mettre en oeuvre du machine learning.
+J'utilise ici "tree" pour construire un arbre de décision.
