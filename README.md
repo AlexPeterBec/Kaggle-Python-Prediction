@@ -15,3 +15,5 @@ Contient les mêmes champs que le set d'entrainement, mais pas les réponses (ic
 # Librairies
 
 ### Pandas
+Utilisé pour la manipulation de tableaux de données et fichiers CSV.
+Sert à explorer les datasets, observer les variables et les volumes de données.
