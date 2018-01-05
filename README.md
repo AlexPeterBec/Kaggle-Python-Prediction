@@ -23,5 +23,5 @@ Librairie la plus populaire pour mettre en oeuvre du machine learning.
 
 J'utilise ici "tree" pour construire un arbre de décision. Un arbre de décision parcours les données et choisit une combinaison de critère successifs pour séparer les données en groupes cohérents, c'est une suite de décisions/tests (exemple : pour classer des fruits, se baser d'abord sur le poids, puis sur l'aspect). 
 
-Dans Python, on crée un DecisionTreeClassifier, puis on l'entraine avec des Features et un Resultat (numpy array). L'arbre va donc associer les groupes de features spécifiques qui amènent le plus souvent à un résultat précis. On peut alors connaitre l'importance de chaque features dans la classification finale.
+En pratique, on crée un DecisionTreeClassifier, puis on l'entraine avec des Features et un Resultat (numpy array). L'arbre va donc associer les groupes de features spécifiques qui amènent le plus souvent à un résultat précis. On peut alors connaitre l'importance de chaque features dans la classification finale.
 
