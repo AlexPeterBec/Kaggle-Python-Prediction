@@ -1,4 +1,4 @@
-# Kaggle-Python-Prediction
+# Titanic : Machine Learning from disaster
 
 Exploration du dataset Titanic et utilisation de techniques machine learning pour prédire les survivants
 
