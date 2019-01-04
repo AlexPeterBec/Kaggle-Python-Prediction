@@ -1,7 +1,7 @@
 # Titanic : Machine Learning from disaster
 
-Score actuel : **0.77033**
-Exploration du dataset Titanic et utilisation de techniques machine learning pour prédire les survivants
+- Exploration du dataset Titanic et utilisation de techniques machine learning pour prédire les survivants
+- Score actuel : **0.77033**
 
 # Données
 
